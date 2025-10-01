@@ -1,0 +1,1 @@
+built a Credit Risk Prediction System where I used Python and ML algorithms to analyze loan data, predict default probability, and created a dashboard for financial analysts. The model helps banks identify high-risk customers, reduce defaults, and improve decision-making.
