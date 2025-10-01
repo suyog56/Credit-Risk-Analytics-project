@@ -1,0 +1,10 @@
+{
+  "logistic": {
+    "auc": 0.780431438840156,
+    "report": "              precision    recall  f1-score   support\n\n           0       0.82      0.96      0.89       912\n           1       0.73      0.34      0.46       288\n\n    accuracy                           0.81      1200\n   macro avg       0.78      0.65      0.67      1200\nweighted avg       0.80      0.81      0.78      1200\n"
+  },
+  "random_forest": {
+    "auc": 0.7487512183235869,
+    "report": "              precision    recall  f1-score   support\n\n           0       0.82      0.96      0.88       912\n           1       0.70      0.32      0.44       288\n\n    accuracy                           0.80      1200\n   macro avg       0.76      0.64      0.66      1200\nweighted avg       0.79      0.80      0.77      1200\n"
+  }
+}
